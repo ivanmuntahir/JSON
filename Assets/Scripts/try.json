@@ -1,0 +1,10 @@
+{
+	"stages" : [
+		{
+			"booth_id": 1,
+			"world_name": "virtual_stage",
+			"booth_name": "depan-kanan",
+			"logo_url": "https://a.uguu.se/XduNvAmn.png"
+		}
+	]
+}
